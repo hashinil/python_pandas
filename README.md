@@ -16,6 +16,13 @@ This repository contains everything related to data analysis done by pandas.
 
   - Read CSV, TXT, JSON, EXCEL
 
-:round_pushpin: 2. [Filtering]() :mag:
+:round_pushpin: 2. [Filtering](https://github.com/hashinil/python_pandas/blob/main/Pandas_filter.ipynb) :mag:
 
+  - filtering, isin, str.contains, set_index, filter, loc, iloc, sort_values 
+
+:round_pushpin: 2. [Filtering](https://github.com/hashinil/python_pandas/blob/main/Pandas_filter.ipynb) :mag:
+
+  - Read CSV, TXT, JSON, EXCEL
+    
 ------------------------------------------
+
