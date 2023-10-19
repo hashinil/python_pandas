@@ -20,7 +20,7 @@ This repository contains everything related to data analysis done by pandas.
 
   - filtering, isin, str.contains, set_index, filter, loc, iloc, sort_values 
 
-:round_pushpin: 2. [Filtering](https://github.com/hashinil/python_pandas/blob/main/Pandas_filter.ipynb) :mag:
+:round_pushpin: 2. [Indexing]() ::bookmark_tabs:
 
   - Read CSV, TXT, JSON, EXCEL
     
