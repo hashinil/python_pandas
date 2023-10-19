@@ -24,7 +24,7 @@ This repository contains everything related to data analysis done by pandas.
 
   - indexing, set_index, reset_index, multiple indexing, loc, iloc
 
-:round_pushpin: 4. [Group By and Aggregate Functions](https://github.com/hashinil/python_pandas/blob/main/Pandas_groupby.ipynb) :bookmark_tabs:
+:round_pushpin: 4. [Group By and Aggregate Functions](https://github.com/hashinil/python_pandas/blob/main/Pandas_groupby.ipynb) :page_with_curl:
 
   - 
     
