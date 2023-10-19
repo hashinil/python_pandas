@@ -20,9 +20,13 @@ This repository contains everything related to data analysis done by pandas.
 
   - filtering, isin, str.contains, set_index, filter, loc, iloc, sort_values 
 
-:round_pushpin: 2. [Indexing](https://github.com/hashinil/python_pandas/blob/main/Pandas_index.ipynb) :bookmark_tabs:
+:round_pushpin: 3. [Indexing](https://github.com/hashinil/python_pandas/blob/main/Pandas_index.ipynb) :bookmark_tabs:
 
   - indexing, set_index, reset_index, multiple indexing, loc, iloc
+
+:round_pushpin: 4. [Group By and Aggregate Functions](https://github.com/hashinil/python_pandas/blob/main/Pandas_groupby.ipynb) :bookmark_tabs:
+
+  - 
     
 ------------------------------------------
 
