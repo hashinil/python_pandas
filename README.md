@@ -1,4 +1,4 @@
-# pandas :panda_face:
+# Pandas :panda_face:
 
 This repository contains everything related to data analysis done by pandas.
 
