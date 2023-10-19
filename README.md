@@ -12,7 +12,7 @@ This repository contains everything related to data analysis done by pandas.
 
 ### Excercises
 
-:round_pushpin: 1. [File Reading]()
+:round_pushpin: 1. [File Reading](https://github.com/hashinil/python_pandas/blob/main/Pandas_read.ipynb)
 
   - Read CSV, TXT, JSON, EXCEL
 
